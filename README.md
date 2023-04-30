@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=eugene131&show_icons=true)](https://github.com/eugene131/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=eugene131&show_icons=true&theme=radical)](https://github.com/eugene131/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugene131&layout=compact)](https://github.com/eugene131/github-readme-stats)
 
 
