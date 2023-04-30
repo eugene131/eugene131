@@ -5,6 +5,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugene131&layout=compact)](https://github.com/eugene131/github-readme-stats)
 
 
+[![Solved.ac
+bbt1127](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+
+
 <!--
 **eugene131/eugene131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
