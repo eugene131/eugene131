@@ -6,7 +6,7 @@
 
 
 [![Solved.ac
-bbt1127](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+bbt1127](http://mazassumnida.wtf/api/generate_badge?boj={bbt1127})](https://solved.ac/{bbt1127})
 
 
 <!--
